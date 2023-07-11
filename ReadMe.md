@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Now, I'm studyng Front-end<br>🤝 I’m looking for help with find a new job<br>🌱 ReactJs and API's<br>💬 Front end development<br>⚡ Fun fact
+🔭 Now, I'm studying Front-end<br>🤝 I’m looking for help with find a new job<br>🌱 ReactJs and API's<br>💬 Front end development<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
